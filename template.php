@@ -35,11 +35,6 @@
   <?php echo $section01; ?>
 
 
-  <section class="sect-middle">
-    <div class="container">
-     <h3 class="text-center">お伝えしたいポイントは３つ！</h3>
-    </div>
-  </section>
 
 
   <?php echo file_get_contents("section02.html"); ?>
